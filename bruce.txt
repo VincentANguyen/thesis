@@ -1,7 +1,3 @@
-this is a file
-this is a test
-this is something
-this is blah
-this is another
+this is a filer
 blah and blah
 new line is added
